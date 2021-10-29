@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi there 👋, I'm Soham
 
-<!--
-**sohamds1/sohamds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an app for the hackCBS 4.0 
+- 🌱 I’m currently learning Python with other python-based frameworks and also focusing on Java with DSA problems.
+- 👯 I’m looking to collaborate on anything that is Python-based.
+- 🤔 I’m looking for help with how to use Cloud services like Docker, K8 and other stuff.
+- 💬 Ask me about Python and Web Development
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/sohamds/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/sohamds">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:sohamds100@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://dev.to/sohamds1">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I don't enjoy being stuck with not learning things so I procrastinate. 😈 
+
