@@ -19,6 +19,8 @@ Hi there 👋, I'm Soham
 <a href="https://dev.to/sohamds1">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<br>
+
+<p></p>
+<br><br>
 - ⚡ Fun fact: I don't enjoy being stuck with not learning things so I procrastinate. 😈 
 
