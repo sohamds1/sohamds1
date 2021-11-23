@@ -1,7 +1,6 @@
 Hi there 👋, I'm Soham
 
 
-- 🔭 I’m currently working on an app for the hackCBS 4.0 
 - 🌱 I’m currently learning Python with other python-based frameworks and also focusing on Java with DSA problems.
 - 👯 I’m looking to collaborate on anything that is Python-based.
 - 🤔 I’m looking for help with how to use Cloud services like Docker, K8 and other stuff.
