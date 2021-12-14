@@ -26,4 +26,4 @@ Hi there 👋, I'm Soham
 <br><br>
 My DevCard:
 <br>
-<a href="https://app.daily.dev/sohamds"><img src="https://github.com/sohamds1/sohamds1/blob/master/devcard.svg" width="400" alt="Soham's Dev Card"/></a>
+<a href="https://app.daily.dev/sohamds"><img src="https://github.com/sohamds1/sohamds1/main/devcard.svg" width="400" alt="Soham's Dev Card"/></a>
