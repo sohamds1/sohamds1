@@ -23,3 +23,7 @@ Hi there 👋, I'm Soham
 <br><br>
 - ⚡ Fun fact: I don't enjoy being stuck with not learning things so I procrastinate. 😈 
 
+<br><br>
+My DevCard:
+<br>
+<a href="https://app.daily.dev/sohamds"><img src="https://github.com/sohamds1/sohamds1/blob/master/devcard.svg" width="400" alt="Soham's Dev Card"/></a>
