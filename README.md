@@ -27,3 +27,6 @@ Hi there 👋, I'm Soham
 My DevCard:
 <br>
 <a href="https://app.daily.dev/sohamds"><img src="https://github.com/sohamds1/sohamds1/blob/main/devcard.svg" width="400" alt="Soham's Dev Card"/></a>
+
+2021 wrapped: <br>
+<a href="https://sohamds1.wrapped.run"><img src="https://github.com/sohamds1/sohamds1/blob/main/wrapped.svg" width="600" alt="Soham's 2021 wrapped"/></a>
