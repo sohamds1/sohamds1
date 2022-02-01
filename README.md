@@ -1,8 +1,8 @@
 Hi there 👋, I'm Soham
 
 
-- 🌱 I’m currently learning Python with other python-based frameworks and also focusing on Java with DSA problems.
-- 👯 I’m looking to collaborate on anything that is Python-based.
+- 🌱 I’m currently learning Advanced Core Java (i.e. Enums, Lambda, etc.) and also focusing on creating CRUD applications with Spring Boot and Maven.
+- 👯 I’m looking to collaborate on any Spring Application.
 - 🤔 I’m looking for help with how to use Cloud services like Docker, K8 and other stuff.
 - 💬 Ask me about Python and Web Development
 - 📫 How to reach me: 
