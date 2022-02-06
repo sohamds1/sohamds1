@@ -1,5 +1,5 @@
 Hi there 👋, I'm Soham
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
 
 - 🌱 I’m currently learning Advanced Core Java (i.e. Enums, Lambda, etc.) and also focusing on creating CRUD applications with Spring Boot and Maven.
 - 👯 I’m looking to collaborate on any Spring Application.
