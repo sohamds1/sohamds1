@@ -30,3 +30,6 @@ My DevCard:
 
 2021 wrapped: <br><br>
 <a href="https://sohamds1.wrapped.run"><img src="https://github.com/sohamds1/sohamds1/blob/main/wrapped.png" width="900" alt="Soham's 2021 wrapped"/></a>
+<br><br>
+
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohamds1&theme=dark&show_icons=true)
