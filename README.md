@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Angular-based projects**
 
-- 📝 I regularly write articles on [www.sohamds.co](www.sohamds.co)
+- 📝 I regularly write articles on [sohamds.co](https://www.sohamds.co)
 
 - 💬 Ask me about **Java, Spring, Python**
 
