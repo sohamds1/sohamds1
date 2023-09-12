@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Angular-based projects**
 
-- 📝 I regularly write articles on [Hashnode](sohamds.hashnode.dev)
+- 📝 I regularly write articles on ([sohamds.hashnode.dev](https://sohamds.hashnode.dev/))
 
 - 💬 Ask me about **Java, Spring, Python**
 
