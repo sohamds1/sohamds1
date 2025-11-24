@@ -1,52 +1,114 @@
-<h1 align="center">Hi 👋, I'm Soham Dey Sarkar</h1>
-<h3 align="center">A passionate developer/learner from India.</h3>
+<!-- Header Area -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width: 100%;">
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamds1&label=Profile%20views&color=0e75b6&style=flat" alt="sohamds1" /> </p>
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D280%26section%3Dheader%26text%3DSoham%2520Dey%2520Sarkar%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DAI%2520Engineer%2520%257C%2520Data%2520Scientist%2520%257C%2520Vibe%2520Coder%26descAlignY%3D55%26descAlign%3D50" />
 
-<p align="left"> <a href="https://twitter.com/sohamds" target="blank"><img src="https://img.shields.io/twitter/follow/sohamds?logo=twitter&style=for-the-badge" alt="sohamds" /></a> </p>
+<h3>
+<i>"Code is poetry, Data is the story, and AI is the ending we haven't written yet."</i>
+</h3>
 
-- 🔭 I’m currently working on **SpringBoot projects**
+<a href="https://www.google.com/search?q=https://linkedin.com/in/sohamds">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
+</a>
+<a href="mailto:sohamds100@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
 
-- 🌱 I’m currently learning **Angular, Microservices, REST API**
+<br />
 
-- 👯 I’m looking to collaborate on **Angular-based projects**
+<!-- Intro Section -->
 
-- 📝 I regularly write articles on ([sohamds.hashnode.dev](https://sohamds.hashnode.dev/))
+⚡ About Me
 
-- 💬 Ask me about **Java, Spring, Python**
+Yo! I'm Soham, a developer based in Kolkata, India.
 
-- 📫 How to reach me **sohamds100@gmail.com**
+I bridge the gap between rigorous Quality Assurance and cutting-edge AI Engineering. Currently, I'm ensuring digital excellence at Deloitte USI, but my nights are spent training models and surfing the flow state of Vibe Coding.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sohamds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sohamds" height="30" width="40" /></a>
-<a href="https://twitter.com/sohamds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohamds" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sohamds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sohamds" height="30" width="40" /></a>
-<a href="https://instagram.com/sohamds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohamds" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sohamds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sohamds" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sohamds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sohamds" height="30" width="40" /></a>
-</p>
+I don't just write code; I curate experiences. Whether I'm predicting customer churn with ML or building dashboards that tell a visual story, I bring a unique mix of analytical precision and creative intuition to the table.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+🔭 Current Gig: Analytical QA Tester / POC at Deloitte USI.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sohamds"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sohamds" /></a></p><br><br>
+🌱 Leveling Up: Master's in Computer Applications (2026) & PGP in Data Science (Great Lakes).
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamds1&show_icons=true&locale=en&layout=compact" alt="sohamds1" /></p>
+🧠 Obsession: Generative AI, LLMs, and making data "talk."
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamds1&show_icons=true&locale=en" alt="sohamds1" /></p>
+🌊 Philosophy: Vibe Coding. It's about rhythm, intuition, and letting the AI amplify my creativity.
 
+<!-- Tech Stack Section -->
 
-<br><br>
-My DevCard:
-<br><br>
-<a href="https://app.daily.dev/sohamds"><img src="https://github.com/sohamds1/sohamds1/blob/main/devcard.svg" width="400" alt="Soham's Dev Card"/></a>
+🛠️ The Arsenal
 
-2021 wrapped: <br><br>
-<a href="https://sohamds1.wrapped.run"><img src="https://github.com/sohamds1/sohamds1/blob/main/wrapped.png" width="900" alt="Soham's 2021 wrapped"/></a>
-<br><br>
+I blend traditional data tools with modern AI frameworks.
 
+<div align="center">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,sklearn,tensorflow,pytorch,pandas,numpy,mysql,tableau,powerbi,git,jira,salesforce,vscode,idea" />
+</div>
 
+Domain
+
+Stack
+
+AI & ML
+
+Python, Scikit-Learn, Regression/Classification Models, Predictive Analytics
+
+Data Voodoo
+
+Pandas, NumPy, Matplotlib, Data Cleaning & EDA
+
+Visualization
+
+Tableau, Power BI, Excel (Advanced)
+
+Quality Ops
+
+Salesforce, DocuSign CLM, Jira, Test Suite Design
+
+<!-- Projects Section -->
+
+🚀 Featured Vibe Checks (Projects)
+
+🤖 Customer Churn Predictor
+
+The Crystal Ball for Business.
+
+The Vibe: leveraging Logistic Regression and Random Forest to predict user behavior.
+
+The Tech: Python, Scikit-learn.
+
+The Flex: Achieved ~80% accuracy in identifying key drivers for customer attrition.
+
+📊 Retail Sales Intelligence
+
+Turning numbers into narratives.
+
+The Vibe: A deep dive into sales data to uncover hidden revenue trends.
+
+The Tech: SQL, Tableau.
+
+The Flex: Built interactive dashboards that allow for real-time KPI tracking.
+
+🧠 HR Analytics Suite
+
+People Science.
+
+The Vibe: Tracking attrition and tenure to help HR identify at-risk employees before they leave.
+
+The Tech: Excel, Tableau.
+
+<!-- Stats Section -->
+
+📈 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsohamds%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Soham's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsohamds%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" />
+</div>
+
+<!-- Footer -->
+
+<div align="center">
+<p><i>"The best way to predict the future is to invent it."</i></p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dsohamds%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat" alt="Profile Views" />
+</div>
