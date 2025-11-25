@@ -54,34 +54,8 @@
 
 </div>
 
----
-
-### 🔮 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Customer Churn Predictor** | *The Crystal Ball for Business.* Leveraging Logistic Regression and Random Forest to predict user behavior with high accuracy. | `Python` `Scikit-Learn` `Pandas` |
-| **Retail Sales Intelligence** | *Turning numbers into narratives.* A deep dive into sales data to uncover hidden revenue trends using advanced EDA. | `SQL` `Tableau` `Data Modeling` |
-| **HR Analytics Suite** | *People Science.* Tracking attrition and tenure to help HR identify at-risk employees before they leave. | `PowerBI` `Excel` `Statistics` |
 
 ---
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamd1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Soham's Github Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamd1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
-</div>
-
-<br>
-
-<!-- Streak Stats -->
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamd1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
