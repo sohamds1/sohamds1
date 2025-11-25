@@ -1,114 +1,97 @@
-<!-- Header Area -->
-
+<!-- Header Banner -->
 <div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D280%26section%3Dheader%26text%3DSoham%2520Dey%2520Sarkar%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35%26desc%3DAI%2520Engineer%2520%257C%2520Data%2520Scientist%2520%257C%2520Vibe%2520Coder%26descAlignY%3D55%26descAlign%3D50" />
-
-<h3>
-<i>"Code is poetry, Data is the story, and AI is the ending we haven't written yet."</i>
-</h3>
-
-<a href="https://www.google.com/search?q=https://linkedin.com/in/sohamds">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:sohamds100@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Soham%20Dey%20Sarkar&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Data%20Storyteller%20%7C%20QA%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=62" />
 </div>
 
-<br />
-
-<!-- Intro Section -->
-
-⚡ About Me
-
-Yo! I'm Soham, a developer based in Kolkata, India.
-
-I bridge the gap between rigorous Quality Assurance and cutting-edge AI Engineering. Currently, I'm ensuring digital excellence at Deloitte USI, but my nights are spent training models and surfing the flow state of Vibe Coding.
-
-I don't just write code; I curate experiences. Whether I'm predicting customer churn with ML or building dashboards that tell a visual story, I bring a unique mix of analytical precision and creative intuition to the table.
-
-🔭 Current Gig: Analytical QA Tester / POC at Deloitte USI.
-
-🌱 Leveling Up: Master's in Computer Applications (2026) & PGP in Data Science (Great Lakes).
-
-🧠 Obsession: Generative AI, LLMs, and making data "talk."
-
-🌊 Philosophy: Vibe Coding. It's about rhythm, intuition, and letting the AI amplify my creativity.
-
-<!-- Tech Stack Section -->
-
-🛠️ The Arsenal
-
-I blend traditional data tools with modern AI frameworks.
+<!-- Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Code+is+poetry.;Data+is+the+story.;AI+is+the+ending+we+haven't+written." alt="Typing SVG" />
+  </a>
+</h1>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,sklearn,tensorflow,pytorch,pandas,numpy,mysql,tableau,powerbi,git,jira,salesforce,vscode,idea" />
+  <h3>🚀 About Me</h3>
 </div>
 
-Domain
+<p align="center">
+   I bridge the gap between rigorous <b>Quality Assurance</b> and cutting-edge <b>AI Engineering</b>. Currently ensuring digital excellence at <b>Deloitte USI</b> while training next-gen models. I don't just write code; I curate experiences—blending traditional data tools with modern AI frameworks.
+</p>
 
-Stack
+<p align="center">
+  🌱 <b>Currently:</b> QA Technical Lead / POC at Deloitte USI<br>
+  🎓 <b>Leveling Up:</b> Masters in Computer Applications (2025) & PGP in Data Science<br>
+  ⚡ <b>Obsession:</b> Generative AI, LLMs, and making data "talk"<br>
+  🧠 <b>Philosophy:</b> "Vibe Coding" — rhythmic intuition meeting technical precision.
+</p>
 
-AI & ML
+---
 
-Python, Scikit-Learn, Regression/Classification Models, Predictive Analytics
-
-Data Voodoo
-
-Pandas, NumPy, Matplotlib, Data Cleaning & EDA
-
-Visualization
-
-Tableau, Power BI, Excel (Advanced)
-
-Quality Ops
-
-Salesforce, DocuSign CLM, Jira, Test Suite Design
-
-<!-- Projects Section -->
-
-🚀 Featured Vibe Checks (Projects)
-
-🤖 Customer Churn Predictor
-
-The Crystal Ball for Business.
-
-The Vibe: leveraging Logistic Regression and Random Forest to predict user behavior.
-
-The Tech: Python, Scikit-learn.
-
-The Flex: Achieved ~80% accuracy in identifying key drivers for customer attrition.
-
-📊 Retail Sales Intelligence
-
-Turning numbers into narratives.
-
-The Vibe: A deep dive into sales data to uncover hidden revenue trends.
-
-The Tech: SQL, Tableau.
-
-The Flex: Built interactive dashboards that allow for real-time KPI tracking.
-
-🧠 HR Analytics Suite
-
-People Science.
-
-The Vibe: Tracking attrition and tenure to help HR identify at-risk employees before they leave.
-
-The Tech: Excel, Tableau.
-
-<!-- Stats Section -->
-
-📈 GitHub Stats
+### 🛠️ The Arsenal
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dsohamds%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Soham's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dsohamds%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Languages" />
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+
+<br>
+
+<!-- AI & ML -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br>
+
+<!-- Tools & Viz -->
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </div>
 
-<!-- Footer -->
+---
+
+### 🔮 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Customer Churn Predictor** | *The Crystal Ball for Business.* Leveraging Logistic Regression and Random Forest to predict user behavior with high accuracy. | `Python` `Scikit-Learn` `Pandas` |
+| **Retail Sales Intelligence** | *Turning numbers into narratives.* A deep dive into sales data to uncover hidden revenue trends using advanced EDA. | `SQL` `Tableau` `Data Modeling` |
+| **HR Analytics Suite** | *People Science.* Tracking attrition and tenure to help HR identify at-risk employees before they leave. | `PowerBI` `Excel` `Statistics` |
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-<p><i>"The best way to predict the future is to invent it."</i></p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dsohamds%26label%3DProfile%2520Views%26color%3Dblueviolet%26style%3Dflat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamd1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Soham's Github Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamd1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180"/>
+</div>
+
+<br>
+
+<!-- Streak Stats -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamd1&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
